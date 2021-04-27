@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [ https://www.frontendmentor.io/solutions/column-preview-card-using-html-css-and-bootstrap-44Cw9OrQh](https://www.frontendmentor.io/solutions/column-preview-card-using-html-css-and-bootstrap-44Cw9OrQh)
 - Live Site URL: [https://3-column-preview-card-component-frontend-mentor.netlify.app/](https://3-column-preview-card-component-frontend-mentor.netlify.app/)
 
 
